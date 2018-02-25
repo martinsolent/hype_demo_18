@@ -9,7 +9,11 @@
 	<key>createOfflineApplicationCache</key>
 	<false/>
 	<key>currentSceneContainer</key>
+<<<<<<< Updated upstream
 	<string>1</string>
+=======
+	<string>12</string>
+>>>>>>> Stashed changes
 	<key>customExportSlices</key>
 	<array>
 		<dict>
@@ -115,7 +119,11 @@
 	<key>hasManuallyChangedCSSPositioning</key>
 	<false/>
 	<key>lastCheckDate</key>
+<<<<<<< Updated upstream
 	<date>2018-02-25T21:29:48Z</date>
+=======
+	<date>2018-02-25T18:52:44Z</date>
+>>>>>>> Stashed changes
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -123,7 +131,11 @@
 		<key>customizableLayout</key>
 		<dict>
 			<key>frame</key>
+<<<<<<< Updated upstream
 			<string>{{0, 0}, {2560, 1381}}</string>
+=======
+			<string>{{0, 0}, {1280, 661}}</string>
+>>>>>>> Stashed changes
 			<key>identifier</key>
 			<string>container 516</string>
 			<key>isCustomizableViewContainer</key>
@@ -136,7 +148,11 @@
 			<array>
 				<dict>
 					<key>frame</key>
+<<<<<<< Updated upstream
 					<string>{{0, 0}, {2289, 1381}}</string>
+=======
+					<string>{{0, 0}, {1009, 661}}</string>
+>>>>>>> Stashed changes
 					<key>identifier</key>
 					<string>container 16</string>
 					<key>isCustomizableViewContainer</key>
@@ -149,7 +165,11 @@
 					<array>
 						<dict>
 							<key>frame</key>
+<<<<<<< Updated upstream
 							<string>{{0, 0}, {135, 1381}}</string>
+=======
+							<string>{{0, 0}, {738, 661}}</string>
+>>>>>>> Stashed changes
 							<key>identifier</key>
 							<string>container 11</string>
 							<key>isCustomizableViewContainer</key>
@@ -162,6 +182,7 @@
 							<array>
 								<dict>
 									<key>frame</key>
+<<<<<<< Updated upstream
 									<string>{{0, 0}, {135, 1381}}</string>
 									<key>identifier</key>
 									<string>sceneSelectorCustomizableContainer</string>
@@ -186,6 +207,9 @@
 								<dict>
 									<key>frame</key>
 									<string>{{136, 0}, {2153, 530}}</string>
+=======
+									<string>{{0, 0}, {141, 661}}</string>
+>>>>>>> Stashed changes
 									<key>identifier</key>
 									<string>container 13</string>
 									<key>isCustomizableViewContainer</key>
@@ -198,7 +222,11 @@
 									<array>
 										<dict>
 											<key>frame</key>
+<<<<<<< Updated upstream
 											<string>{{136, 0}, {2153, 530}}</string>
+=======
+											<string>{{0, 0}, {141, 661}}</string>
+>>>>>>> Stashed changes
 											<key>identifier</key>
 											<string>timelineCustomizableContainer</string>
 											<key>isCustomizableViewContainer</key>
@@ -208,7 +236,11 @@
 								</dict>
 								<dict>
 									<key>frame</key>
+<<<<<<< Updated upstream
 									<string>{{136, 531}, {2153, 850}}</string>
+=======
+									<string>{{142, 0}, {596, 661}}</string>
+>>>>>>> Stashed changes
 									<key>identifier</key>
 									<string>container 12</string>
 									<key>isCustomizableViewContainer</key>
@@ -221,21 +253,97 @@
 									<array>
 										<dict>
 											<key>frame</key>
+<<<<<<< Updated upstream
 											<string>{{136, 531}, {2153, 850}}</string>
+=======
+											<string>{{142, 0}, {596, 220}}</string>
+											<key>identifier</key>
+											<string>container 13</string>
+											<key>isCustomizableViewContainer</key>
+											<true/>
+											<key>isCustomizableViewWrapper</key>
+											<true/>
+											<key>isVertical</key>
+											<true/>
+											<key>subviews</key>
+											<array>
+												<dict>
+													<key>frame</key>
+													<string>{{142, 0}, {596, 220}}</string>
+													<key>identifier</key>
+													<string>timelineCustomizableContainer</string>
+													<key>isCustomizableViewContainer</key>
+													<false/>
+												</dict>
+											</array>
+										</dict>
+										<dict>
+											<key>frame</key>
+											<string>{{142, 221}, {596, 440}}</string>
+>>>>>>> Stashed changes
 											<key>identifier</key>
 											<string>sceneEditorCustomizableContainer</string>
 											<key>isCustomizableViewContainer</key>
+<<<<<<< Updated upstream
 											<false/>
+=======
+											<true/>
+											<key>isCustomizableViewWrapper</key>
+											<true/>
+											<key>isVertical</key>
+											<true/>
+											<key>subviews</key>
+											<array>
+												<dict>
+													<key>frame</key>
+													<string>{{142, 221}, {596, 440}}</string>
+													<key>identifier</key>
+													<string>sceneEditorCustomizableContainer</string>
+													<key>isCustomizableViewContainer</key>
+													<false/>
+												</dict>
+											</array>
+>>>>>>> Stashed changes
 										</dict>
 									</array>
 								</dict>
 							</array>
 						</dict>
+<<<<<<< Updated upstream
+=======
+						<dict>
+							<key>frame</key>
+							<string>{{739, 0}, {270, 661}}</string>
+							<key>identifier</key>
+							<string>container 15</string>
+							<key>isCustomizableViewContainer</key>
+							<true/>
+							<key>isCustomizableViewWrapper</key>
+							<true/>
+							<key>isVertical</key>
+							<true/>
+							<key>subviews</key>
+							<array>
+								<dict>
+									<key>frame</key>
+									<string>{{739, 0}, {270, 661}}</string>
+									<key>identifier</key>
+									<string>inspectorCustomizableContainer</string>
+									<key>isCustomizableViewContainer</key>
+									<false/>
+								</dict>
+							</array>
+						</dict>
+>>>>>>> Stashed changes
 					</array>
 				</dict>
 				<dict>
 					<key>frame</key>
+<<<<<<< Updated upstream
 					<string>{{2290, 0}, {270, 1381}}</string>
+=======
+					<string>{{1010, 0}, {270, 661}}</string>
+>>>>>>> Stashed changes
 					<key>identifier</key>
 					<string>container 15</string>
 					<key>isCustomizableViewContainer</key>
@@ -248,7 +356,11 @@
 					<array>
 						<dict>
 							<key>frame</key>
+<<<<<<< Updated upstream
 							<string>{{2290, 0}, {270, 1381}}</string>
+=======
+							<string>{{1010, 0}, {270, 661}}</string>
+>>>>>>> Stashed changes
 							<key>identifier</key>
 							<string>inspectorCustomizableContainer</string>
 							<key>isCustomizableViewContainer</key>
@@ -259,9 +371,15 @@
 			</array>
 		</dict>
 		<key>keyframeTimelineHeight</key>
+<<<<<<< Updated upstream
 		<real>231</real>
 		<key>mainWindowFrame</key>
 		<string>695 369 1790 1044 0 0 2560 1440 </string>
+=======
+		<real>82</real>
+		<key>mainWindowFrame</key>
+		<string>0 94 1280 683 0 0 1280 777 </string>
+>>>>>>> Stashed changes
 		<key>openTabs</key>
 		<array/>
 		<key>selectedTabIndex</key>
@@ -1070,7 +1188,11 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
+<<<<<<< Updated upstream
 					<string>{1435, 566}</string>
+=======
+					<string>{640, 440}</string>
+>>>>>>> Stashed changes
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1095,9 +1217,13 @@
 					<key>rootSymbolControllerOid</key>
 					<string>2</string>
 					<key>scrollViewOffset</key>
+<<<<<<< Updated upstream
 					<string>{0, 0}</string>
 					<key>zoomFactor</key>
 					<real>1.5</real>
+=======
+					<string>{2, 12}</string>
+>>>>>>> Stashed changes
 				</dict>
 			</array>
 		</dict>
@@ -1122,7 +1248,11 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
+<<<<<<< Updated upstream
 					<string>{1436, 568}</string>
+=======
+					<string>{640, 440}</string>
+>>>>>>> Stashed changes
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1148,8 +1278,11 @@
 					<string>13</string>
 					<key>scrollViewOffset</key>
 					<string>{1, 1}</string>
+<<<<<<< Updated upstream
 					<key>zoomFactor</key>
 					<real>1.5</real>
+=======
+>>>>>>> Stashed changes
 				</dict>
 			</array>
 		</dict>
@@ -1278,7 +1411,11 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
+<<<<<<< Updated upstream
 					<string>{1436, 570}</string>
+=======
+					<string>{640, 440}</string>
+>>>>>>> Stashed changes
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1303,9 +1440,13 @@
 					<key>rootSymbolControllerOid</key>
 					<string>45</string>
 					<key>scrollViewOffset</key>
+<<<<<<< Updated upstream
 					<string>{1, 4}</string>
 					<key>zoomFactor</key>
 					<real>1.5</real>
+=======
+					<string>{3, 3}</string>
+>>>>>>> Stashed changes
 				</dict>
 			</array>
 		</dict>
@@ -1590,7 +1731,11 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
+<<<<<<< Updated upstream
 					<string>{1436, 568}</string>
+=======
+					<string>{640, 440}</string>
+>>>>>>> Stashed changes
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1615,7 +1760,11 @@
 					<key>rootSymbolControllerOid</key>
 					<string>245</string>
 					<key>scrollViewOffset</key>
+<<<<<<< Updated upstream
 					<string>{1, 1}</string>
+=======
+					<string>{4, 4}</string>
+>>>>>>> Stashed changes
 					<key>userGuides</key>
 					<array/>
 					<key>zoomFactor</key>
@@ -1648,7 +1797,11 @@
 			<key>currentGroupElement</key>
 			<string>186</string>
 			<key>documentIdentifier</key>
+<<<<<<< Updated upstream
 			<string>7EAB5F0D-F1FD-492D-800C-7702A585DC48-1064-000029954168D6A6</string>
+=======
+			<string>5BBA845B-A04B-4E8E-8D9D-87866DB2D0EA-35913-00002529F57C8EB3</string>
+>>>>>>> Stashed changes
 			<key>selectedObjects</key>
 			<array>
 				<string>6</string>
@@ -2612,48 +2765,21 @@
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>Left</string>
-									<key>objectValue</key>
-									<string>18px</string>
-								</dict>
-								<key>identifier</key>
-								<string>Left</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>6</string>
-								<key>startTime</key>
-								<real>1</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Left</string>
-									<key>objectValue</key>
-									<string>179px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>b</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>C60F8773-5C36-47D2-94D3-AEB4A3AA52BF-2380-0000151DC408478F</string>
-								<key>zIndex</key>
-								<integer>2</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>1</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
 									<string>ActionHandler</string>
 									<key>objectValue</key>
 									<dict>
 										<key>actions</key>
 										<array>
-											<dict/>
+											<dict>
+												<key>playInReverse</key>
+												<false/>
+												<key>symbolOid</key>
+												<string>2</string>
+												<key>timelineIdentifier</key>
+												<string>kTimelineDefaultIdentifier</string>
+												<key>type</key>
+												<integer>3</integer>
+											</dict>
 										</array>
 									</dict>
 								</dict>
@@ -2692,6 +2818,42 @@
 								<integer>2</integer>
 								<key>uuid</key>
 								<string>780D8E18-2233-4C30-B3C6-64E8E90B9499-2380-0000152B1ABCE549</string>
+								<key>zIndex</key>
+								<integer>2</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>1</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>18px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Left</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>6</string>
+								<key>startTime</key>
+								<real>1</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>179px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>b</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>C60F8773-5C36-47D2-94D3-AEB4A3AA52BF-2380-0000151DC408478F</string>
 								<key>zIndex</key>
 								<integer>2</integer>
 							</dict>
@@ -2788,10 +2950,17 @@
 			<key>currentGroupElement</key>
 			<string>185</string>
 			<key>documentIdentifier</key>
+<<<<<<< Updated upstream
 			<string>7EAB5F0D-F1FD-492D-800C-7702A585DC48-1064-000029954168D6A6</string>
 			<key>selectedObjects</key>
 			<array>
 				<string>17</string>
+=======
+			<string>5BBA845B-A04B-4E8E-8D9D-87866DB2D0EA-35913-00002529F57C8EB3</string>
+			<key>selectedObjects</key>
+			<array>
+				<string>185</string>
+>>>>>>> Stashed changes
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -3428,6 +3597,12 @@
 							<string>BorderStyleRight</string>
 							<key>objectValue</key>
 							<string>None</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4271,7 +4446,11 @@
 			<key>currentGroupElement</key>
 			<string>184</string>
 			<key>documentIdentifier</key>
+<<<<<<< Updated upstream
 			<string>7EAB5F0D-F1FD-492D-800C-7702A585DC48-1064-000029954168D6A6</string>
+=======
+			<string>5BBA845B-A04B-4E8E-8D9D-87866DB2D0EA-35913-00002529F57C8EB3</string>
+>>>>>>> Stashed changes
 			<key>selectedObjects</key>
 			<array>
 				<string>24</string>
@@ -6065,7 +6244,11 @@
 		</dict>
 		<dict>
 			<key>documentIdentifier</key>
+<<<<<<< Updated upstream
 			<string>7EAB5F0D-F1FD-492D-800C-7702A585DC48-1064-000029954168D6A6</string>
+=======
+			<string>5BBA845B-A04B-4E8E-8D9D-87866DB2D0EA-35913-00002529F57C8EB3</string>
+>>>>>>> Stashed changes
 			<key>selectedObjects</key>
 			<array>
 				<string>42</string>
@@ -7907,7 +8090,11 @@
 										<false/>
 									</dict>
 									<key>oid</key>
+<<<<<<< Updated upstream
 									<string>DDF7752A-BC21-4D99-A8FA-5ED92EFF60AF-1064-00002994D596D479</string>
+=======
+									<string>4ECD3A64-BB03-4C5D-8F21-314A3B6F52CE-35913-0000252844DAF56F</string>
+>>>>>>> Stashed changes
 								</dict>
 								<key>referenceOid</key>
 								<string>42</string>
@@ -7974,7 +8161,11 @@
 										<false/>
 									</dict>
 									<key>oid</key>
+<<<<<<< Updated upstream
 									<string>DDF7752A-BC21-4D99-A8FA-5ED92EFF60AF-1064-00002994D596D479</string>
+=======
+									<string>4ECD3A64-BB03-4C5D-8F21-314A3B6F52CE-35913-0000252844DAF56F</string>
+>>>>>>> Stashed changes
 								</dict>
 								<key>referenceOid</key>
 								<string>42</string>
@@ -8082,7 +8273,11 @@
 										<false/>
 									</dict>
 									<key>oid</key>
+<<<<<<< Updated upstream
 									<string>DDF7752A-BC21-4D99-A8FA-5ED92EFF60AF-1064-00002994D596D479</string>
+=======
+									<string>4ECD3A64-BB03-4C5D-8F21-314A3B6F52CE-35913-0000252844DAF56F</string>
+>>>>>>> Stashed changes
 								</dict>
 								<key>referenceOid</key>
 								<string>42</string>
@@ -8142,7 +8337,11 @@
 										<false/>
 									</dict>
 									<key>oid</key>
+<<<<<<< Updated upstream
 									<string>5FE74961-4196-4146-9F50-791464DD2CB3-1064-00002994D598E8BF</string>
+=======
+									<string>983B90BD-8D19-415D-8DC0-B276696C6584-35913-0000252844DE0F0C</string>
+>>>>>>> Stashed changes
 								</dict>
 								<key>referenceOid</key>
 								<string>42</string>
@@ -8202,7 +8401,11 @@
 										<false/>
 									</dict>
 									<key>oid</key>
+<<<<<<< Updated upstream
 									<string>5FE74961-4196-4146-9F50-791464DD2CB3-1064-00002994D598E8BF</string>
+=======
+									<string>983B90BD-8D19-415D-8DC0-B276696C6584-35913-0000252844DE0F0C</string>
+>>>>>>> Stashed changes
 								</dict>
 								<key>referenceOid</key>
 								<string>42</string>
@@ -8262,7 +8465,11 @@
 										<false/>
 									</dict>
 									<key>oid</key>
+<<<<<<< Updated upstream
 									<string>5FE74961-4196-4146-9F50-791464DD2CB3-1064-00002994D598E8BF</string>
+=======
+									<string>983B90BD-8D19-415D-8DC0-B276696C6584-35913-0000252844DE0F0C</string>
+>>>>>>> Stashed changes
 								</dict>
 								<key>referenceOid</key>
 								<string>42</string>
@@ -8305,7 +8512,11 @@
 		</dict>
 		<dict>
 			<key>documentIdentifier</key>
+<<<<<<< Updated upstream
 			<string>7EAB5F0D-F1FD-492D-800C-7702A585DC48-1064-000029954168D6A6</string>
+=======
+			<string>5BBA845B-A04B-4E8E-8D9D-87866DB2D0EA-35913-00002529F57C8EB3</string>
+>>>>>>> Stashed changes
 			<key>selectedObjects</key>
 			<array>
 				<string>48</string>
@@ -10381,7 +10592,11 @@
 		</dict>
 		<dict>
 			<key>documentIdentifier</key>
+<<<<<<< Updated upstream
 			<string>7EAB5F0D-F1FD-492D-800C-7702A585DC48-1064-000029954168D6A6</string>
+=======
+			<string>5BBA845B-A04B-4E8E-8D9D-87866DB2D0EA-35913-00002529F57C8EB3</string>
+>>>>>>> Stashed changes
 			<key>selectedObjects</key>
 			<array>
 				<string>108</string>
@@ -12081,7 +12296,11 @@
 		</dict>
 		<dict>
 			<key>documentIdentifier</key>
+<<<<<<< Updated upstream
 			<string>7EAB5F0D-F1FD-492D-800C-7702A585DC48-1064-000029954168D6A6</string>
+=======
+			<string>5BBA845B-A04B-4E8E-8D9D-87866DB2D0EA-35913-00002529F57C8EB3</string>
+>>>>>>> Stashed changes
 			<key>selectedObjects</key>
 			<array/>
 			<key>symbol</key>
@@ -12988,7 +13207,11 @@
 		</dict>
 		<dict>
 			<key>documentIdentifier</key>
+<<<<<<< Updated upstream
 			<string>7EAB5F0D-F1FD-492D-800C-7702A585DC48-1064-000029954168D6A6</string>
+=======
+			<string>5BBA845B-A04B-4E8E-8D9D-87866DB2D0EA-35913-00002529F57C8EB3</string>
+>>>>>>> Stashed changes
 			<key>selectedObjects</key>
 			<array>
 				<string>219</string>
@@ -13922,7 +14145,11 @@
 		</dict>
 		<dict>
 			<key>documentIdentifier</key>
+<<<<<<< Updated upstream
 			<string>7EAB5F0D-F1FD-492D-800C-7702A585DC48-1064-000029954168D6A6</string>
+=======
+			<string>5BBA845B-A04B-4E8E-8D9D-87866DB2D0EA-35913-00002529F57C8EB3</string>
+>>>>>>> Stashed changes
 			<key>selectedObjects</key>
 			<array>
 				<string>119</string>
@@ -15145,7 +15372,11 @@
 		</dict>
 		<dict>
 			<key>documentIdentifier</key>
+<<<<<<< Updated upstream
 			<string>7EAB5F0D-F1FD-492D-800C-7702A585DC48-1064-000029954168D6A6</string>
+=======
+			<string>5BBA845B-A04B-4E8E-8D9D-87866DB2D0EA-35913-00002529F57C8EB3</string>
+>>>>>>> Stashed changes
 			<key>selectedObjects</key>
 			<array>
 				<string>181</string>
@@ -17166,7 +17397,11 @@
 		</dict>
 		<dict>
 			<key>documentIdentifier</key>
+<<<<<<< Updated upstream
 			<string>7EAB5F0D-F1FD-492D-800C-7702A585DC48-1064-000029954168D6A6</string>
+=======
+			<string>5BBA845B-A04B-4E8E-8D9D-87866DB2D0EA-35913-00002529F57C8EB3</string>
+>>>>>>> Stashed changes
 			<key>selectedObjects</key>
 			<array>
 				<string>243</string>
@@ -18218,7 +18453,11 @@
 		</dict>
 		<dict>
 			<key>documentIdentifier</key>
+<<<<<<< Updated upstream
 			<string>7EAB5F0D-F1FD-492D-800C-7702A585DC48-1064-000029954168D6A6</string>
+=======
+			<string>5BBA845B-A04B-4E8E-8D9D-87866DB2D0EA-35913-00002529F57C8EB3</string>
+>>>>>>> Stashed changes
 			<key>selectedObjects</key>
 			<array>
 				<string>268</string>
