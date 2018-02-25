@@ -115,7 +115,7 @@
 	<key>hasManuallyChangedCSSPositioning</key>
 	<false/>
 	<key>lastCheckDate</key>
-	<date>2018-02-25T14:43:25Z</date>
+	<date>2018-02-25T14:47:59Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -299,7 +299,7 @@
 		<key>keyframeTimelineHeight</key>
 		<real>213</real>
 		<key>mainWindowFrame</key>
-		<string>223 306 2546 1043 0 0 2560 1417 </string>
+		<string>32 349 2546 1043 0 0 2560 1417 </string>
 		<key>openTabs</key>
 		<array/>
 		<key>selectedTabIndex</key>
