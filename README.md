@@ -1,1 +1,1 @@
-# hype_demo_18
+# Tumult Hype Pro 3 Demonstration
